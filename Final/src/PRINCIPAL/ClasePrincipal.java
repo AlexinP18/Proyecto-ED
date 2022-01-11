@@ -15,7 +15,7 @@ public class ClasePrincipal {
     public static void main(String[] args) {
         GestorJugadores g1 = new GestorJugadores();
         Menu.menuPrincipal(g1);
-
+        System.out.println("Hola XD");
     }
     
 }
